@@ -1,0 +1,30 @@
+Name:
+    css: 'div.info strong a'
+    xpath: null
+    multiple: true
+    type: Text
+Rating:
+    css: 'div.ipl-rating-star.small span.ipl-rating-star__rating'
+    xpath: null
+    multiple: true
+    type: Text
+reviewers:
+    css: span.ipl-rating-star__total-votes
+    xpath: null
+    multiple: true
+    type: Text
+episodeNo:
+    css: 'div.hover-over-image div'
+    xpath: null
+    multiple: true
+    type: Text
+releaseDate:
+    css: div.airdate
+    xpath: null
+    multiple: true
+    type: Text
+description:
+    css: div.item_description
+    xpath: null
+    multiple: true
+    type: Text

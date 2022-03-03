@@ -1,0 +1,4 @@
+ss:
+    css: select.current
+    xpath: null
+    type: Text
